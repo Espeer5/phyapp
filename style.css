@@ -28,7 +28,7 @@ body{
 }
 
 #title{
-    z-index: 2;
+    z-index: 6;
     position: fixed;
     top: 20px;
     text-align: center;
