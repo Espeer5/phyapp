@@ -26,3 +26,9 @@ body{
     -webkit-filter: blur(3px);
     filter: blur(2px);
 }
+
+h1{
+    z-index: 2;
+    position: fixed;
+    top: 20px;
+}
