@@ -10,6 +10,10 @@ body{
     padding: 0px;
     width: 100%;
     height: auto;
+    text-align: center;
+    font-family: "copperplate",serif;
+    font-size: 38px;
+    font-weight: bold;
 }
 
 #headimg{
