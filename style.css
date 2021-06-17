@@ -1,7 +1,8 @@
 html{
   height: 100%;
   width: 100%;
-  maegin:0;
+  margin:0;
+  padding:0;
 }
 #headimg{
   top:0px;
