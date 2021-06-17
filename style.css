@@ -27,8 +27,12 @@ body{
     filter: blur(2px);
 }
 
-h1{
+#title{
     z-index: 2;
     position: fixed;
     top: 20px;
+    text-align: center;
+    font-family: "copperplate",serif;
+    font-size: 38px;
+    font-weight: bold;
 }
