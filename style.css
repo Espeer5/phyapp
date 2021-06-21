@@ -43,8 +43,7 @@ body{
 #tableinfo{
     z-index: 6;
     position: absolute;
-    top: 50px;
-    align: center;
+    top: 80px;
     margin-left: auto;
     margin-right: auto;
     font-family: "fangsong";
