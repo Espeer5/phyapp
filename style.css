@@ -42,13 +42,7 @@ body{
 
 #tableinfo{
     z-index: 6;
-    position: absolute;
-    top: 80px;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: "fangsong";
-    font-size: 20px;
-    font-weight: normal;
+    top: 140px;
 }
 
 tr{
