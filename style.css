@@ -19,12 +19,11 @@ body{
     font-family: "copperplate",serif;
     font-size: 38px;
     font-weight: bold;
-    left: 0px;
 }
 
 #headimg{
+    left: 0px;
     margin: 0px;
-    text-align: center;
     padding: 0px;
     width: 100%;
     height: auto;
