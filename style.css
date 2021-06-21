@@ -36,6 +36,6 @@ body{
     z-index: 6;
     position: fixed;
     top: 20px;
-    color: white;
+    color: gray;
     width: 100%;
 }
