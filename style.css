@@ -52,6 +52,18 @@ body{
     font-weight: normal;
 }
 
+td{
+    z-index: 6;
+    position: absolute;
+    top: 50px;
+    align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "fangsong";
+    font-size: 20px;
+    font-weight: normal;
+}
+
 
 #info{
   height: 100%;
