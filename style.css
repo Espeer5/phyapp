@@ -26,11 +26,10 @@ body{
     margin: 0px;
     padding: 0px;
     width: 100%;
-    height: auto;
     position: absolute;
     z-index: 1;
-    -webkit-filter: blur(3px);
-    filter: blur(2px);
+    -webkit-filter: blur(4px);
+    filter: blur(4px);
 }
 
 #title{
