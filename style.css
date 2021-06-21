@@ -39,3 +39,11 @@ body{
     color: white;
     width: 100%;
 }
+
+#info{
+  height: 100%;
+  background-image:linear-gradient(rgb(255, 255, 255), rgb(143, 143, 143));
+  background-repeat: no-repeat;
+  margin: 0px;
+  background-attachment: fixed;
+}
