@@ -52,7 +52,7 @@ body{
     font-weight: normal;
 }
 
-td{
+tr{
     z-index: 6;
     position: absolute;
     top: 50px;
