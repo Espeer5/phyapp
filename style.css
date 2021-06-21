@@ -41,13 +41,14 @@ body{
 }
 
 #tableinfo{
+    z-index: 6;
     position: absolute;
-    top: 75px;
+    top: 50px;
     align: center;
     margin-left: auto;
     margin-right: auto;
     font-family: "fangsong";
-    font-size: 35px;
+    font-size: 20px;
     font-weight: normal;
 }
 
