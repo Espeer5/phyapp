@@ -14,7 +14,6 @@ body{
     margin: 0px;
     padding: 0px;
     width: 100%;
-    height: auto;
     text-align: center;
     font-family: "copperplate",serif;
     font-size: 38px;
@@ -37,8 +36,4 @@ body{
     position: fixed;
     top: 20px;
     width: 100%;
-    text-align: center;
-    font-family: "copperplate",serif;
-    font-size: 38px;
-    font-weight: bold;
 }
