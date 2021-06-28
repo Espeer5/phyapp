@@ -17,3 +17,5 @@ function drawMenu() {
   ctx.lineTo(9,9);
   ctx.stroke();
 }
+
+drawMenu()
