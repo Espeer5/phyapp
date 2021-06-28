@@ -39,7 +39,7 @@ body{
   position: absolute;
   background-color: transparent;
   padding: 16px;
-  font-size: 16px;
+  font-size: 10px;
   border: none;
 }
 
@@ -64,7 +64,7 @@ body{
 /* Links inside the dropdown */
 .dropdown-content a {
   color: black;
-  padding: 12px 16px;
+  padding: 8px 10px;
   text-decoration: none;
   display: block;
 }
