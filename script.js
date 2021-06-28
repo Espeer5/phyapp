@@ -5,16 +5,16 @@ function drawMenu() {
   ctx.strokeStyle = 'white';
   ctx.lineWidth = 1;
   ctx.beginPath();
-  ctx.moveTo(1,1);
-  ctx.lineTo(9,1);
+  ctx.moveTo(0,0);
+  ctx.lineTo(8,0);
   ctx.stroke();
   ctx.beginPath();
-  ctx.moveTo(1,5);
-  ctx.lineTo(9,5);
+  ctx.moveTo(0,4);
+  ctx.lineTo(8,4);
   ctx.stroke();
   ctx.beginPath();
-  ctx.moveTo(1,9);
-  ctx.lineTo(9,9);
+  ctx.moveTo(0,8);
+  ctx.lineTo(8,8);
   ctx.stroke();
 }
 
