@@ -16,3 +16,4 @@ function drawMenu() {
   ctx.moveTo(1,9);
   ctx.lineTo(9,9);
   ctx.stroke();
+}
