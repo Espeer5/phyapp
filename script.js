@@ -18,4 +18,4 @@ function drawMenu() {
   ctx.stroke();
 }
 
-drawMenu()
+drawMenu();
