@@ -20,6 +20,10 @@ body{
     font-weight: bold;
 }
 
+#title{
+    border-color: white;
+}
+
 #headimg{
     z-index:1;
     width:100%;
