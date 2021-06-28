@@ -2,7 +2,7 @@
 function drawMenu() {
   var canvas = document.getElementById('menucan');
   var ctx = canvas.getContext('2d');
-  ctx.strokeStyle = 'white';
+  ctx.strokeStyle = 'rgba(255, 255, 255, 1)';
   ctx.lineWidth = 1;
   ctx.beginPath();
   ctx.moveTo(0,1);
