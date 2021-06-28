@@ -9,12 +9,12 @@ function drawMenu() {
   ctx.lineTo(20,1);
   ctx.stroke();
   ctx.beginPath();
-  ctx.moveTo(0,7);
-  ctx.lineTo(20,7);
+  ctx.moveTo(0,10);
+  ctx.lineTo(20,10);
   ctx.stroke();
   ctx.beginPath();
-  ctx.moveTo(0,14);
-  ctx.lineTo(20,14);
+  ctx.moveTo(0,19);
+  ctx.lineTo(20,19);
   ctx.stroke();
 }
 
