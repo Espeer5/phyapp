@@ -41,6 +41,6 @@ body{
     width: 102%;
     border-top: 2px solid white;
     border-bottom: 2px solid white;
-    border-left: 0px;
-    border-right: 0px;
+    border-left: 0px solid white;
+    border-right: 0px solid white;
 }
